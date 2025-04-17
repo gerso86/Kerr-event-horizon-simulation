@@ -28,7 +28,7 @@ You need **Mathematica** installed to run the code.
 ## 📚 Citation
 If you use this code or adapt it, please cite:
 
-> G. J. Cabrera, _Kerr Black Hole Simulation_, GitHub repository:  (2025)
+> G. J. Cabrera, _Kerr Black Hole Simulation_, GitHub repository: https://github.com/gerso86/Kerr-event-horizon-simulation  (2025)
 
 ## 🧾 License
 
